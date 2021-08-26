@@ -1,0 +1,28 @@
+.Contact {
+    background-color: pink;
+    height: 320px;
+}
+
+.Contact .ContactIcons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.Contact .ContactIcons svg path {
+    cursor: pointer;
+}
+
+.Contact .Phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+.Contact .Email {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+}
