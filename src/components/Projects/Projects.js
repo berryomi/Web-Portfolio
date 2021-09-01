@@ -51,7 +51,7 @@ const inspection_languages = 'Languages: Java';
 const Projects = () => {
     return (
         <div className={classes.Portfolio} id="projects">
-            <PageHeader title={'What about the Portfolio?'} />
+            <PageHeader title={'Projects'} />
             <div className={classes.Project}>
                 {project(starseekerImage, project_description('Star Seeker', starseeker_description, starseeker_languages))}
                 {project(gitlabImage, project_description('GitLab Analyzer', gitlab_description, gitlab_languages))}

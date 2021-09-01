@@ -1,6 +1,6 @@
 .Contact {
     background-color: pink;
-    height: 320px;
+    height: 370px;
 }
 
 .Contact .ContactIcons {
@@ -13,16 +13,26 @@
     cursor: pointer;
 }
 
-.Contact .Phone {
+
+.Contact .ContactInfo .Phone {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 0%;
 }
 
-.Contact .Email {
+.Contact .ContactInfo .Email {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 10px;
+    font-weight: bold;
+}
+
+.Contact .Message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10px;
+    padding-top: 30px;
 }

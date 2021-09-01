@@ -1,7 +1,7 @@
 .AboutMe {
     background-color: white;
-    height: 500px;
-    padding-bottom: 100px;
+    padding-bottom: 200px;
+    height: 650px;
 }
 
 .AboutMe .Container {
@@ -9,6 +9,18 @@
 }
 
 .AboutMe .Container .Text {
-    margin-left: 40px;
-    width: 800px;
+    background-color: pink;
+    margin-left: 100px;
+    width: 50%;
+    height: 400px;
+    padding: 30px 30px 30px 30px;
+    
+}
+
+.AboutMe .Container .Myself {
+    height: 600px;
+    margin-left: 30%;
+    position:absolute;
+    right:0;
+
 }

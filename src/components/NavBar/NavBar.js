@@ -1,5 +1,6 @@
 import React from 'react'
 import classes from './NavBar.module.css'
+import logo from './logo_pinkpurple_32.ico'
 // import './NavBar.css'
 
 const NavBar = () => {

@@ -15,8 +15,13 @@ const Contact = () => {
                 <FaGithub color='white' size='30px' style={{padding: '1%'}}
                             onClick={handleURL('https://github.com/berryomi?tab=repositories')} />
             </div>
-            <p className={classes.Email}>jiwonj@sfu.ca</p>
-            <p className={classes.Phone}>236)888-1136</p>
+            
+            <div className={classes.ContactInfo}>
+                <p className={classes.Email}>jiwonj@sfu.ca</p>
+                <p className={classes.Phone}>236)888-1136</p>
+            </div>
+
+            <p className={classes.Message}>Please feel free to get in touch with me!</p>
             
         </div>
     );
