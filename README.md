@@ -2,7 +2,7 @@
 
 ## Link
 
-[jiwonjun.herokuapp.com/](https://jiwonjun.herokuapp.com/)
+-> [jiwonjun.herokuapp.com](https://jiwonjun.herokuapp.com/)
 
 <br>
 
