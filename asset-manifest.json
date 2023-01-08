@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/berryomi/Web-Portfolio/static/css/main.b1f6c3d7.chunk.css",
+    "main.js": "/berryomi/Web-Portfolio/static/js/main.ce0c3259.chunk.js",
+    "main.js.map": "/berryomi/Web-Portfolio/static/js/main.ce0c3259.chunk.js.map",
+    "runtime-main.js": "/berryomi/Web-Portfolio/static/js/runtime-main.26f122c9.js",
+    "runtime-main.js.map": "/berryomi/Web-Portfolio/static/js/runtime-main.26f122c9.js.map",
+    "static/js/2.daffbb19.chunk.js": "/berryomi/Web-Portfolio/static/js/2.daffbb19.chunk.js",
+    "static/js/2.daffbb19.chunk.js.map": "/berryomi/Web-Portfolio/static/js/2.daffbb19.chunk.js.map",
+    "index.html": "/berryomi/Web-Portfolio/index.html",
+    "static/css/main.b1f6c3d7.chunk.css.map": "/berryomi/Web-Portfolio/static/css/main.b1f6c3d7.chunk.css.map",
+    "static/js/2.daffbb19.chunk.js.LICENSE.txt": "/berryomi/Web-Portfolio/static/js/2.daffbb19.chunk.js.LICENSE.txt",
+    "static/media/80.273a5198.png": "/berryomi/Web-Portfolio/static/media/80.273a5198.png",
+    "static/media/gitlab.31b66045.png": "/berryomi/Web-Portfolio/static/media/gitlab.31b66045.png",
+    "static/media/gpa_calc.6664b91c.png": "/berryomi/Web-Portfolio/static/media/gpa_calc.6664b91c.png",
+    "static/media/inspection.b0604f0b.png": "/berryomi/Web-Portfolio/static/media/inspection.b0604f0b.png",
+    "static/media/maze_game.ceb01cca.png": "/berryomi/Web-Portfolio/static/media/maze_game.ceb01cca.png",
+    "static/media/me.271e2f83.png": "/berryomi/Web-Portfolio/static/media/me.271e2f83.png",
+    "static/media/starseeker.46073334.png": "/berryomi/Web-Portfolio/static/media/starseeker.46073334.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26f122c9.js",
+    "static/js/2.daffbb19.chunk.js",
+    "static/css/main.b1f6c3d7.chunk.css",
+    "static/js/main.ce0c3259.chunk.js"
+  ]
+}
