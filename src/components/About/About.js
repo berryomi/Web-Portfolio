@@ -1,12 +1,12 @@
 import React from 'react'
 import classes from './About.module.css'
 import PageHeader from './../PageHeader/PageHeader'
-import background from "./Images/80.png";
+import background from "./Images/80.png"
 import myself from "./Images/me.png"
 
 const About = () => {
     return (
-        <div className={classes.AboutMe} style={{    backgroundImage: `url(${background})`, 
+        <div className={classes.AboutMe} style={{   backgroundImage: `url(${background})`, 
                                                     backgroundPosition: 'center',
                                                     backgroundSize: 'cover'}} id="about">
             <PageHeader title={'About Me'} />
