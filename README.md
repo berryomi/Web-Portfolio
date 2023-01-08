@@ -2,7 +2,7 @@
 
 ## Link
 
--> [jiwonjun.herokuapp.com](https://jiwonjun.herokuapp.com/)
+-> [berryomi.github.io/Web-Portfolio](https://berryomi.github.io/Web-Portfolio/)
 
 <br>
 
